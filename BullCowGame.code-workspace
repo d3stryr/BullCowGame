@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"name": "BullCowGame",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/Users/Shared/Epic Games/UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"__hash_table": "cpp",
+			"__tree": "cpp",
+			"__tuple": "cpp",
+			"array": "cpp",
+			"chrono": "cpp",
+			"compare": "cpp",
+			"cstddef": "cpp",
+			"type_traits": "cpp",
+			"filesystem": "cpp",
+			"forward_list": "cpp",
+			"limits": "cpp",
+			"ratio": "cpp",
+			"tuple": "cpp",
+			"variant": "cpp",
+			"__functional_base": "cpp",
+			"__functional_base_03": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"utility": "cpp",
+			"__bit_reference": "cpp",
+			"bitset": "cpp",
+			"hash_map": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
